@@ -11,7 +11,7 @@ Matalb implementation for AAAI21 paper:
 
 **Structure**
 
-![structure](https://github.com/liujiyuan13/HMKC-code_release/raw/master/fig/framework_with_graph-crop.png)
+![structure](https://github.com/liujiyuan13/HMKC-code_release/blob/main/fig/framework_with_graph-crop.png)
 
 ## Citation
 
@@ -19,10 +19,10 @@ If you find our code useful, please cite:
 
 	@inproceedings{DBLP:conf/aaai/JiyuanAAAI21Hierarchical,
 	  author    = {Jiyuan Liu and
-               Xinwang Liu and
-               Yuexiang Yang and
-               Siwei Wang and
-               Sihang Zhou},
+               	   Xinwang Liu and
+                   Yuexiang Yang and
+                   Siwei Wang and
+                   Sihang Zhou},
 	  title     = {Hierarchical Multiple Kernel Clustering},
 	  booktitle = {Proceedings of the Thirty-fifth {AAAI} Conference on Artificial 	Intelligence (AAAI-21), Virtually, February 2-9, 2021},
 	  pages     = {},
