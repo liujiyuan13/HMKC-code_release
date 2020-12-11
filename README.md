@@ -19,7 +19,7 @@ If you find our code useful, please cite:
 
 	@inproceedings{DBLP:conf/aaai/JiyuanAAAI21Hierarchical,
 	  author    = {Jiyuan Liu and
-               	   Xinwang Liu and
+                   Xinwang Liu and
                    Yuexiang Yang and
                    Siwei Wang and
                    Sihang Zhou},
