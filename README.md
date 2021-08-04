@@ -17,18 +17,25 @@ Current multiple kernel clustering algorithms compute a partition with the conse
 
 If you find our code useful, please cite:
 
-	@inproceedings{DBLP:conf/aaai/JiyuanAAAI21Hierarchical,
-	  author    = {Jiyuan Liu and
-                   Xinwang Liu and
-                   Yuexiang Yang and
-                   Siwei Wang and
-                   Sihang Zhou},
-	  title     = {Hierarchical Multiple Kernel Clustering},
-	  booktitle = {Proceedings of the Thirty-fifth {AAAI} Conference on Artificial 	Intelligence (AAAI-21), Virtually, February 2-9, 2021},
-	  pages     = {},
-	  year      = {2021},
-	  crossref  = {},
-	  url       = {},
+	@inproceedings{DBLP:conf/aaai/0003LWZY21,
+		author    = {Jiyuan Liu and
+		            Xinwang Liu and
+		            Siwei Wang and
+		            Sihang Zhou and
+		            Yuexiang Yang},
+		title     = {Hierarchical Multiple Kernel Clustering},
+		booktitle = {Thirty-Fifth {AAAI} Conference on Artificial Intelligence, {AAAI}
+		            2021, Thirty-Third Conference on Innovative Applications of Artificial
+		            Intelligence, {IAAI} 2021, The Eleventh Symposium on Educational Advances
+		            in Artificial Intelligence, {EAAI} 2021, Virtual Event, February 2-9,
+		            2021},
+		pages     = {8671--8679},
+		publisher = {{AAAI} Press},
+		year      = {2021},
+		url       = {https://ojs.aaai.org/index.php/AAAI/article/view/17051},
+		timestamp = {Sat, 05 Jun 2021 18:11:55 +0200},
+		biburl    = {https://dblp.org/rec/conf/aaai/0003LWZY21.bib},
+		bibsource = {dblp computer science bibliography, https://dblp.org}
 	}
 
 ## More
